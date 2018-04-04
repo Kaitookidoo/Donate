@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="visible" type="id"/>
+    <item name="masked" type="id"/>
+    <color name="colorPrimary">#3baced</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#a8194a</color>
+    <color name="primary">#e43f3f</color>
+    <color name="primary_dark">#e12929</color>
+    <color name="primary_darker">#CC1D1D</color>
+    <color name="accent">#ffffff</color>
+
+    <color name="black">#2c0808</color>
+    <color name="jet">#222222</color>
+    <color name="oil">#333333</color>
+    <color name="monsoon">#777777</color>
+    <color name="jumbo">#888888</color>
+    <color name="aluminum">#999999</color>
+    <color name="base">#AAAAAA</color>
+    <color name="iron">#CCCCCC</color>
+    <color name="white">#ffffff</color>
+    <color name="primary_material_light">#f2e91e54</color>
+    <color name="primary_dark_material_light">#e41d3e</color>
+</resources>
