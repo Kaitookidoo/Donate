@@ -70,6 +70,7 @@ public class collect extends AppCompatActivity implements OnMapReadyCallback {
                                             text.setText(lat+lon+add);
                                             LatLng latLng=new LatLng(Double.parseDouble(lat),Double.parseDouble(lon));
                                             mMap.addMarker(new MarkerOptions().position(latLng).title("Marker in loop"));
+                                            System.out.print(add);
                                         }
 
                                     }
